@@ -16,3 +16,6 @@ Pedro Henrique Bugatti - pbugatti@utfpr.edu.br;</br>
 Douglas Silva Domingues - dougsd3@gmail.com;</br>
 Wonder Alexandre Luz Alves - wonder@uninove.br;</br>
 Alexandre Rossi Paschoal - paschoal@utfpr.edu.br;</br>
+
+# MANUAL
+
