@@ -31,6 +31,7 @@ txCdsPredict: txCdsPredict</br>
 CD-HIT-EST: CD-HIT-EST</br>
 RNAplonc: pre-compiled executables for Linux</br>
 doc: documentation</br>
+Dataset_teste: dataset for test RNAplonc;
 
 # HARDWARE/SOFTWARE REQUIREMENTS
 Linux
@@ -38,3 +39,6 @@ Linux
 # LIMITATIONS
 
 This release was tested with the default parameters for plants. Please contact the author for a list of recommended parameters for much larger or much smaller genomes.
+
+# WEBSITE
+http://rnaplonc.cp.utfpr.edu.br/
