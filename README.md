@@ -17,5 +17,9 @@ Douglas Silva Domingues - dougsd3@gmail.com;</br>
 Wonder Alexandre Luz Alves - wonder@uninove.br;</br>
 Alexandre Rossi Paschoal - paschoal@utfpr.edu.br;</br>
 
+# INSTALL
+https://github.com/TatianneNegri/RNAplonc/blob/master/Install.md
+
 # MANUAL
+
 
