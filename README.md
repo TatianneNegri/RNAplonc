@@ -19,6 +19,9 @@ Alexandre Rossi Paschoal - paschoal@utfpr.edu.br;</br>
 
 # INSTALL
 Before to start, it is necessary to install txCdsPredict and CD-HIT-EST software.</br>
+txCdsPredict : https://github.com/ENCODE-DCC/kentUtils</br>
+CD-HIT-EST: https://github.com/TatianneNegri/RNAplonc/blob/master/cdhit-master.zip
+ 
 
 https://github.com/TatianneNegri/RNAplonc/blob/master/Install.md
 
@@ -27,11 +30,9 @@ https://github.com/TatianneNegri/RNAplonc/blob/master/Manual.pdf
 
 # DIRECTORY CONTENTS
 
-txCdsPredict: txCdsPredict</br>
-CD-HIT-EST: CD-HIT-EST</br>
-RNAplonc: pre-compiled executables for Linux</br>
-doc: documentation</br>
-Dataset_teste: dataset for test RNAplonc;
+CD-HIT-EST: cdhit-master.zip</br>
+RNAplonc: RNAplonc.zip, pre-compiled executables for Linux, scripts required, RNAplonc.model, folder with test sequence.</br>
+Manual.pdf: documentation</br>
 
 # HARDWARE/SOFTWARE REQUIREMENTS
 Linux
