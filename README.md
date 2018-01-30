@@ -18,13 +18,15 @@ Wonder Alexandre Luz Alves - wonder@uninove.br;</br>
 Alexandre Rossi Paschoal - paschoal@utfpr.edu.br;</br>
 
 # INSTALL
+Before to start, it is necessary to install txCdsPredict and CD-HIT-EST software.</br>
+
 https://github.com/TatianneNegri/RNAplonc/blob/master/Install.md
 
 # MANUAL
 https://github.com/TatianneNegri/RNAplonc/blob/master/Manual.pdf
 
 # DIRECTORY CONTENTS
-Before to start, it is necessary to install txCdsPredict and CD-HIT-EST software.</br>
+
 txCdsPredict: txCdsPredict</br>
 CD-HIT-EST: CD-HIT-EST</br>
 RNAplonc: pre-compiled executables for Linux</br>
