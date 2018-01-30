@@ -21,5 +21,5 @@ Alexandre Rossi Paschoal - paschoal@utfpr.edu.br;</br>
 https://github.com/TatianneNegri/RNAplonc/blob/master/Install.md
 
 # MANUAL
-
+https://github.com/TatianneNegri/RNAplonc/blob/master/Manual.pdf
 
