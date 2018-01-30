@@ -23,3 +23,16 @@ https://github.com/TatianneNegri/RNAplonc/blob/master/Install.md
 # MANUAL
 https://github.com/TatianneNegri/RNAplonc/blob/master/Manual.pdf
 
+# DIRECTORY CONTENTS
+Before to start, it is necessary to install txCdsPredict and CD-HIT-EST software.</br>
+txCdsPredict: txCdsPredict</br>
+CD-HIT-EST: CD-HIT-EST</br>
+RNAplonc: pre-compiled executables for Linux</br>
+doc: documentation</br>
+
+# HARDWARE/SOFTWARE REQUIREMENTS
+Linux
+
+# LIMITATIONS
+
+This release was tested with the default parameters for plants. Please contact the author for a list of recommended parameters for much larger or much smaller genomes.
