@@ -15,7 +15,8 @@ Priscila Tiemi Maeda Saito - priscilasaito@gmail.com;</br>
 Pedro Henrique Bugatti - pbugatti@utfpr.edu.br;</br>
 Douglas Silva Domingues - dougsd3@gmail.com;</br>
 Wonder Alexandre Luz Alves - wonder@uninove.br;</br>
-Alexandre Rossi Paschoal - paschoal@utfpr.edu.br;</br>
+* Alexandre Rossi Paschoal - paschoal@utfpr.edu.br;</br>
+* Corresponding author. If you need any information contact paschoal@utfpr.edu.br
 
 # INSTALL
 Before to start, it is necessary to install txCdsPredict and CD-HIT-EST software.</br>
@@ -35,7 +36,12 @@ RNAplonc: RNAplonc.zip, pre-compiled executables for Linux, scripts required, RN
 Manual.pdf: documentation</br>
 
 # HARDWARE/SOFTWARE REQUIREMENTS
-Linux
+Project name: RNAplonc
+Operating system(s): Linux/Unix or similar
+Programming language: PERL
+Other requirements (software): txCDSpredict, CD-HIT-EST, Java
+License: GNU GPL
+Any restrictions to use by non-academics: request permission is needed General information: All dataset used, tutorial and software are in the website
 
 # LIMITATIONS
 
