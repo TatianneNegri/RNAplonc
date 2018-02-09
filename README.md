@@ -29,7 +29,7 @@ https://github.com/TatianneNegri/RNAplonc/blob/master/Install.md
 # MANUAL
 https://github.com/TatianneNegri/RNAplonc/blob/master/Manual.pdf
 
-# DIRECTORY CONTENTS
+# DIRECTORY CONTENTS/ DOWNLOAD
 
 CD-HIT-EST: cdhit-master.zip</br>
 RNAplonc: RNAplonc.zip, pre-compiled executables for Linux, scripts required, RNAplonc.model, folder with test sequence.</br>
