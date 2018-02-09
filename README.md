@@ -36,12 +36,13 @@ RNAplonc: RNAplonc.zip, pre-compiled executables for Linux, scripts required, RN
 Manual.pdf: documentation</br>
 
 # HARDWARE/SOFTWARE REQUIREMENTS
-Project name: RNAplonc
-Operating system(s): Linux/Unix or similar
-Programming language: PERL
-Other requirements (software): txCDSpredict, CD-HIT-EST, Java
-License: GNU GPL
-Any restrictions to use by non-academics: request permission is needed General information: All dataset used, tutorial and software are in the website
+Project name: RNAplonc</br>
+Operating system(s): Linux/Unix or similar</br>
+Programming language: PERL</br>
+Other requirements (software): txCDSpredict, CD-HIT-EST, Java</br>
+License: GNU GPL</br>
+Any restrictions to use by non-academics: request permission is needed. </br>
+General information: All dataset used, tutorial and software are in the website
 
 # LIMITATIONS
 
