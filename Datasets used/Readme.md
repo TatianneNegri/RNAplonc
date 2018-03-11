@@ -1,6 +1,5 @@
 RNAplonc - training : https://github.com/TatianneNegri/RNAplonc/tree/master/Datasets%20used/training 
-
-Obs: the set of transcripts is divided into 1 and 2.
+Ps: training set is divided em part 1 and 2.
 
 RNAplonc - test : http://rnaplonc.cp.utfpr.edu.br/download/rnaplonc_test.zip 
 
