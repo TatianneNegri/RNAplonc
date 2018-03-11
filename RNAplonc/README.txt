@@ -64,7 +64,7 @@ result.cds = Output file name
 
 The entry in this step 5 will be the resulting files of steps 3 will be the results files of steps 3 - CD-HIT-EST and 4 - txCdsPredict
 
-Command to execute: perl feature_extraction.pl result.fasta result.cds
+Command to execute: perl feature_extraction.pl result.fasta result.cds >resultado.arff
 
 result.fasta = Name ofthe output file from step 3 - CD-HIT-EST 
 result.cds = Name of the output file from step 4 - txCdsPredict
