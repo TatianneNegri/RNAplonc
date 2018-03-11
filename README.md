@@ -21,7 +21,7 @@ Wonder Alexandre Luz Alves - wonder@uninove.br;</br>
 # INSTALL
 Before to start, it is necessary to install txCdsPredict and CD-HIT-EST software.</br>
 txCdsPredict : https://github.com/ENCODE-DCC/kentUtils</br>
-CD-HIT-EST: https://github.com/TatianneNegri/RNAplonc/blob/master/cdhit-master.zip
+CD-HIT-EST: https://github.com/weizhongli/cdhit/releases
  
 
 https://github.com/TatianneNegri/RNAplonc/blob/master/Install.md
