@@ -1,5 +1,3 @@
-All datasets used: http://rnaplonc.cp.utfpr.edu.br/download.php 
-
 RNAplonc - training : http://rnaplonc.cp.utfpr.edu.br/download/rnaplonc_training.zip 
 
 RNAplonc - test : http://rnaplonc.cp.utfpr.edu.br/download/rnaplonc_test.zip 
