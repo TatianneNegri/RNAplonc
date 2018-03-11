@@ -24,10 +24,10 @@ txCdsPredict : https://github.com/ENCODE-DCC/kentUtils</br>
 CD-HIT-EST: https://github.com/weizhongli/cdhit/releases
  
 
-https://github.com/TatianneNegri/RNAplonc/blob/master/Install.md
+All to install: https://github.com/TatianneNegri/RNAplonc/blob/master/Install.md
 
 # MANUAL
-https://github.com/TatianneNegri/RNAplonc/blob/master/Manual.pdf
+Manual : https://github.com/TatianneNegri/RNAplonc/blob/master/Manual.pdf
 
 # DOWNLOAD
 
