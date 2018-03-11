@@ -29,12 +29,11 @@ https://github.com/TatianneNegri/RNAplonc/blob/master/Install.md
 # MANUAL
 https://github.com/TatianneNegri/RNAplonc/blob/master/Manual.pdf
 
-# DIRECTORY CONTENTS/ DOWNLOAD
+# DOWNLOAD
 
-RNAplonc: RNAplonc.zip, pre-compiled executables for Linux, scripts required, RNAplonc.model, folder with test sequence.</br>
+RNAplonc: pre-compiled executables for Linux, scripts required, RNAplonc.model, folder with test sequence.</br>
 Manual.pdf: documentation</br>
-Datasets_used.md: All datasets used</br>
-CD-HIT-EST: cdhit-master.zip</br>
+Datasets used: All datasets used</br>
 
 # HARDWARE/SOFTWARE REQUIREMENTS
 Project name: RNAplonc</br>
