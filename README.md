@@ -31,9 +31,9 @@ https://github.com/TatianneNegri/RNAplonc/blob/master/Manual.pdf
 
 # DOWNLOAD
 
-RNAplonc: pre-compiled executables for Linux, scripts required, RNAplonc.model, folder with test sequence.</br>
-Manual.pdf: documentation</br>
-Datasets used: All datasets used</br>
+RNAplonc: pre-compiled executables for Linux, scripts required, RNAplonc.model, folder with test sequence (https://github.com/TatianneNegri/RNAplonc/tree/master/RNAplonc).</br>
+manual.pdf: documentation  (https://github.com/TatianneNegri/RNAplonc/blob/master/manual.pdf)</br>
+Datasets used: All datasets used (https://github.com/TatianneNegri/RNAplonc/tree/master/Datasets%20used).</br>
 
 # HARDWARE/SOFTWARE REQUIREMENTS
 Project name: RNAplonc</br>
