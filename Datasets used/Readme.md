@@ -1,4 +1,4 @@
-RNAplonc - training : http://rnaplonc.cp.utfpr.edu.br/download/rnaplonc_training.zip 
+RNAplonc - training : https://github.com/TatianneNegri/RNAplonc/tree/master/Datasets%20used/training 
 
 RNAplonc - test : http://rnaplonc.cp.utfpr.edu.br/download/rnaplonc_test.zip 
 
