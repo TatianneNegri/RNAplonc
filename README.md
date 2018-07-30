@@ -50,3 +50,7 @@ This release was tested with the default parameters for plants. Please contact t
 
 # WEBSITE
 http://rnaplonc.cp.utfpr.edu.br/
+
+# PUBLICATION
+Negri T. D. C., W. A. L. Alves, P. H. Bugatti, P. T. M. Saito, D. S. Domingues, and A. R. Paschoal. ”Pattern recognition analysis on long noncoding RNAs: a tool for prediction in plants.” Brief. Bioinformatics, Abr 2018.
+Doi: https://doi.org/10.1093/bib/bby034
