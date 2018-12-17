@@ -27,7 +27,7 @@ CD-HIT-EST: https://github.com/weizhongli/cdhit/releases
 All to install: https://github.com/TatianneNegri/RNAplonc/blob/master/Install.md
 
 # MANUAL
-Manual : https://github.com/TatianneNegri/RNAplonc/blob/master/Manual.pdf
+Manual : https://github.com/TatianneNegri/RNAplonc/blob/master/manual.pdf
 
 # DOWNLOAD
 
