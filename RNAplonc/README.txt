@@ -73,7 +73,7 @@ The output file will have the extension .arff
 
 The entry in this step 6 is the resulting file from step 5 - feature_extraction.pl
 
-Command to execute: java -Xmx10G -cp path/weka.jar weka.classifiers.trees.J48 -l path/RNAplonc.model -T path/result.arff -p 0 >resultado_end.txt
+Command to execute: java -cp weka.jar weka.classifiers.trees.REPTree -l RNAplonc.model -T result.arff -p 0 >resultado_end.txt
 
 The file weka.jar is in the download section in the compressed file RNAplonc.zip
 
