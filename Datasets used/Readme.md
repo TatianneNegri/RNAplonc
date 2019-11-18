@@ -1,8 +1,8 @@
-#RNAplonc - training : divided in lncRNA (https://github.com/TatianneNegri/RNAplonc/blob/master/Datasets%20used/training/lncRNA_dataset.fasta) and transcripts. <br>
+#RNAplonc - training : divided in lncRNA and transcripts (https://github.com/TatianneNegri/RNAplonc/blob/master/Datasets%20used/treino/lncRNA_dataset.fasta) and transcripts. <br>
 
-Ps: training set transcripts is divided in part 1 and 2.<br>
-transcripts 1 : https://github.com/TatianneNegri/RNAplonc/blob/master/Datasets%20used/training/transcritos_dataset_1.fasta<br>
-transcripts 2 : https://github.com/TatianneNegri/RNAplonc/blob/master/Datasets%20used/training/transcritos_dataset_2.fasta<br>
+Training set transcripts is.<br>
+transcripts  : https://github.com/TatianneNegri/RNAplonc/blob/master/Datasets%20used/treino/transcritos_dataset.fasta<br>
+
 
 #RNAplonc - test : dataset of 8 plant species divided in lncRNA and trasncripts.<br>
 lncRNA: https://github.com/TatianneNegri/RNAplonc/tree/master/Datasets%20used/test/lncRNA <br>
