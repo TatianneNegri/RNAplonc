@@ -48,8 +48,9 @@ General information: All dataset used, tutorial and software are in the website
 
 This release was tested with the default parameters for plants. Please contact the author for a list of recommended parameters for much larger or much smaller genomes.
 
-# WEBSITE
-http://rnaplonc.cp.utfpr.edu.br/
+# UPDATE 2019
+
+star Note: Updated test dataset, and added result display script.
 
 # PUBLICATION
 Negri T. D. C., W. A. L. Alves, P. H. Bugatti, P. T. M. Saito, D. S. Domingues, and A. R. Paschoal. ”Pattern recognition analysis on long noncoding RNAs: a tool for prediction in plants.” Brief. Bioinformatics, Abr 2018.
