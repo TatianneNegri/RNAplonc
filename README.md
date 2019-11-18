@@ -50,7 +50,7 @@ This release was tested with the default parameters for plants. Please contact t
 
 # UPDATE 2019
 
-star Note: Updated test dataset, and added result display script.
+<g-emoji class="g-emoji" alias="star" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png">⭐️</g-emoji> Note: Updated test dataset, and added result display script.
 
 # PUBLICATION
 Negri T. D. C., W. A. L. Alves, P. H. Bugatti, P. T. M. Saito, D. S. Domingues, and A. R. Paschoal. ”Pattern recognition analysis on long noncoding RNAs: a tool for prediction in plants.” Brief. Bioinformatics, Abr 2018.
