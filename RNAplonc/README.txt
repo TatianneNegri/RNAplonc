@@ -9,6 +9,8 @@ Negri et al. RNAplonc: a tool for identification of plant long non-coding RNAs. 
 
 Before to start, it is necessary to install CD-HIT-EST and txCdsPredict. After, it just unzips the RNAplonc.zip.
 
+CD-HIT-EST is for taking similar sequences, if you want the whole result not to do this step.
+
 PS: path is the location of the RNAplonc folder.
 
 1 - dataset.fasta
@@ -81,6 +83,11 @@ The file weka.jar is in the download section in the compressed file RNAplonc.zip
 
 RNAplonc.model file results from step 6
 
->resultado_end.txt final result
+>python final_column.py result.cds resultado_end.txt >result
+
+final_column.py = result display program 
+result.cds = Name of the output file from step 4 - txCdsPredict
+resultado_end.txt =  Name of the output file from step 6
+result = result display
 
 Any questions please contact us.
