@@ -83,11 +83,14 @@ The file weka.jar is in the download section in the compressed file RNAplonc.zip
 
 RNAplonc.model file results from step 6
 
->python final_column.py result.cds resultado_end.txt >result
+>python3 final_column.py -c result.cds -r resultado_end.txt -o resultFinal.txt -p 0.8 -t 1
 
 final_column.py = result display program 
-result.cds = Name of the output file from step 4 - txCdsPredict
-resultado_end.txt =  Name of the output file from step 6
-result = result display
+-c = result.cds = Name of the output file from step 4 - txCdsPredict
+-r = resultado_end.txt =  Name of the output file from step 6
+-o = resultFinal.txt = result display
+Optional parameters:
+-p = 0.8 = Filter the output percentage in the terminal, float valeu between 0 and 1
+-t = 1 = Filter the output type in the terminal, 1- lncRNA , 2-mRNA
 
 Any questions please contact us.
