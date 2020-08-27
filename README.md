@@ -1,4 +1,4 @@
-# RNAplonc V1.0
+# RNAplonc V1.1
 
 A tool for identification of plant long non-coding RNAs.
 
@@ -20,7 +20,8 @@ Wonder Alexandre Luz Alves - wonder@uninove.br;</br>
 
 # INSTALL
 Before to start, it is necessary to install txCdsPredict and CD-HIT-EST software.</br>
-txCdsPredict : https://github.com/ENCODE-DCC/kentUtils</br>
+txCdsPredict : https://github.com/ENCODE-DCC/kentUtils</br> 
+
 CD-HIT-EST: https://github.com/weizhongli/cdhit/releases
  
 
@@ -48,9 +49,12 @@ General information: All dataset used, tutorial and software are in the website
 
 This release was tested with the default parameters for plants. Please contact the author for a list of recommended parameters for much larger or much smaller genomes.
 
-# UPDATE 2019
-
-<g-emoji class="g-emoji" alias="star" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png">⭐️</g-emoji> Note: 
+# UPDATE 2020 & 2019:
+<g-emoji class="g-emoji" alias="star" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png">⭐️</g-emoji>
+August-2020: RNAplonc V 1.1 </br>
+News: we updated the previous script final_column.py to a NOVEL script now FilterResults.py (last step). This script is a last step to help to filter the candidates (e.g., threshold, by lncRNA or mRNA). </br>
+Updated user guide.</br>
+<g-emoji class="g-emoji" alias="star" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png">⭐️</g-emoji> 2019- Note: 
 Updated test data set and added result display script, python script for a friendlier result display. </br>
 Updated user guide. </br>
 Collaboration of Vitor Gregorio.</br>
