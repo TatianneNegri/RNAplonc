@@ -89,9 +89,9 @@ RNAplonc.model file results from step 6
 FilterResults.py = result display program 
 -c = result.cds = Name of the output file from step 4 - txCdsPredict
 -r = resultado_end.txt =  Name of the output file from step 6
--o = resultFinal.txt = result display
+-o = resultFinal.txt = result display  (result display)
 Optional parameters:
--p = 0.8 = Filter the output percentage in the terminal, float valeu between 0 and 1
+-p = 0.5* = Filter the output percentage in the terminal, float valeu between 0 and 1
 -t = 1 = Filter the output type in the terminal, 1- lncRNA , 2-mRNA
 
 * According to WEKA official website (https://waikato.github.io/weka-wiki/making_predictions/), prediction value is the probability to belong to that class. >=0.5 will be considered lncRNAs. User is free to choose their threshold. However, close to 1 you will get less False Positive results.
