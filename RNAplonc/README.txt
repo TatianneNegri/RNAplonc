@@ -82,11 +82,12 @@ The file weka.jar is in the download section in the compressed file RNAplonc.zip
 
 7 - result
 
-RNAplonc.model file results from step 6
+Stars by using the output file from step 6 (resultado_end.txt), this novel script will help filter the output results for the final user.
+
 
 >python3 FilterResults.py -c result.cds -r resultado_end.txt -o resultFinal.txt -p 0.8 -t 1
 
-FilterResults.py = result display program 
+FilterResults.py = script to filter the lncRNA/mRNA results
 -c = result.cds = Name of the output file from step 4 - txCdsPredict
 -r = resultado_end.txt =  Name of the output file from step 6
 -o = resultFinal.txt = result display  (result display)
