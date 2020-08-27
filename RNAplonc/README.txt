@@ -94,4 +94,6 @@ Optional parameters:
 -p = 0.8 = Filter the output percentage in the terminal, float valeu between 0 and 1
 -t = 1 = Filter the output type in the terminal, 1- lncRNA , 2-mRNA
 
+* According to WEKA official website (https://waikato.github.io/weka-wiki/making_predictions/), prediction value is the probability to belong to that class. >=0.5 will be considered lncRNAs. User is free to choose their threshold. However, close to 1 you will get less False Positive results.
+
 Any questions please contact us.
