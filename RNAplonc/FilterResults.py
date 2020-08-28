@@ -31,12 +31,6 @@ col2 = pd.DataFrame(arq1.loc[0:, 'Seq'])
 
 
 df = col2.join(col1)
-df.index = df.index + 1
-final = str(df)
-
-
-arq3.seek(0)
-arq3.write(final)
 
 
 if args["type"]!=None and args["percent"]!=None:
@@ -44,7 +38,10 @@ if args["type"]!=None and args["percent"]!=None:
         longo = df.predicted.str.contains(args["type"], na=False)
         if float(args["percent"]) >=0 and float(args["percent"]) <=1:
             porc = df.prediction >= float(args["percent"])
-            print(df[(longo & porc)])
+            dataF = df[longo &porc]
+            arq3.seek(0)
+            final = dataF.to_string(index=False)
+            arq3.write(final)
         else:
             print("Percentage value incorrect, use a value between 0 and 1 ")
     else:
@@ -53,14 +50,23 @@ if args["type"]!=None and args["percent"]!=None:
 elif args["type"]!=None and args["percent"]==None:
     if(int(args["type"]) ==1 or int(args["type"])==2):
         longo = df.predicted.str.contains(args["type"], na=False)
-        print(df[(longo)])
+        dataF = df[longo]
+        arq3.seek(0)
+        final = dataF.to_string(index=False)
+        arq3.write(final)
     else:
         print("Type value incorrect, use 1 for lncRNA or 2 for mRNA ")
 
 elif args["type"]==None and args["percent"]!=None:
     if float(args["percent"]) >=0 and float(args["percent"])<=1:
         porc = df.prediction >= float(args["percent"])
-        print(df[(porc)])
+        dataF = df[porc]
+        arq3.seek(0)
+        final = dataF.to_string(index=False)
+        arq3.write(final)
     else:
         print("Percentage value incorrect, use a value between 0 and 1 ")
-
+else:
+    arq3.seek(0)
+    final = df.to_string(index=False)
+    arq3.write(final)
