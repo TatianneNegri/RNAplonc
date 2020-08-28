@@ -80,21 +80,26 @@ Command to execute: java -cp weka.jar weka.classifiers.trees.REPTree -l RNAplonc
 
 The file weka.jar is in the download section in the compressed file RNAplonc.zip
 
-7 - result
+7 - Filter result
 
 Stars by using the output file from step 6 (resultado_end.txt), this novel script will help filter the output results for the final user.
 
+* withouth filter optional parameters:
 
->python3 FilterResults.py -c result.cds -r resultado_end.txt -o resultFinal.txt -p 0.5 -t 1
+>python3 FilterResults.py -c result.cds -r resultado_end.txt -o resultFinal.txt
 
 FilterResults.py = script to filter the lncRNA/mRNA results
 -c = result.cds = Name of the output file from step 4 - txCdsPredict
 -r = resultado_end.txt =  Name of the output file from step 6
 -o = resultFinal.txt = result display  (result display)
-Optional parameters:
--p = 0.5* = Filter the output percentage in the terminal, float valeu between 0 and 1
--t = 1 = Filter the output type in the terminal, 1- lncRNA , 2-mRNA
+
+Filtering Optional parameters:
+
+>python3 FilterResults.py -c result.cds -r resultado_end.txt -o resultFinal.txt -p 0.5 -t 1
+
+-p = 0.5* = Filter the output percentage, float valeu between 0 and 1
+-t = 1 = Filter the output by type: 1- lncRNA , 2-mRNA
 
 * According to WEKA official website (https://waikato.github.io/weka-wiki/making_predictions/), prediction value is the probability to belong to that class. >=0.5 will be considered lncRNAs. User is free to choose their threshold. However, close to 1 you will get less False Positive results.
 
-Any questions please contact us.
+Any questions, please contact us.
