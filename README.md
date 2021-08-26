@@ -20,7 +20,10 @@ Wonder Alexandre Luz Alves - wonder@uninove.br;</br>
 
 # INSTALL
 Before to start, it is necessary to install txCdsPredict and CD-HIT-EST software.</br>
-txCdsPredict : https://github.com/ENCODE-DCC/kentUtils</br> 
+
+txCdsPredict:the precompiled binary is included in the package. Here is the link to download the source code:</br>
+
+https://github.com/ENCODE-DCC/kentUtils</br> 
 
 CD-HIT-EST: https://github.com/weizhongli/cdhit/releases
  
