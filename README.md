@@ -1,6 +1,8 @@
 # RNAplonc V1.1
 
-A tool for identification of plant long non-coding RNAs.
+**NEWS** A Docker version to easy install is available. See the [Docker Manual](https://github.com/TatianneNegri/RNAplonc/blob/master/Docker.md) for more information.
+
+**A tool for identification of plant long non-coding RNAs.**
 
 Long non-coding RNAs (lncRNAs) correspond to an eukaryotic non-coding RNA class that has gained emerging attention in the last years as a higher layer of regulation for gene expression in cells. There is, however, a lack of specific computational approaches to reliably predict lncRNA in plants, which contrast with the variety of prediction tools available for mammalian lncRNAs. This distinction is not obvious, given that the biological features and mechanisms generating lncRNAs in the cell are likely different between animals and plants.
 
